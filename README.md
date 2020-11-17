@@ -1,1 +1,1 @@
-# newGitTest
+# newGitTest sample text
